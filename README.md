@@ -30,7 +30,7 @@
 1. Clone kho lưu trữ:
 
    ```bash
-   git clone https://github.com/hungne121/six.git
+  git clone https://github.com/hungne121/six.git](https://github.com/Long1208-firsttime/ROS_FINAL_PROJECT.git
    ```
 
 2. Cài đặt TEB.:
