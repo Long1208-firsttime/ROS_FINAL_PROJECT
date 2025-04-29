@@ -48,25 +48,19 @@
    
 2. Chạy ASLAM hoặc Gmaping với các map phức tạp hơn.
 a. Khởi chạy map.
-Map book_store: roslaunch six bookstore.launch
+   Map book_store: _roslaunch six bookstore.launch_
 
-Map frosland : roslaunch six map_frostland.launch
+   Map frosland : _roslaunch six map_frostland.launch_
 
-Map park: roslaunch six map_park.launch
+   Map park: _roslaunch six map_park.launch_
 
-Map rock: roslaunch six map_rocklaunch 
+   Map rock: _roslaunch six map_rocklaunch_ 
 
-Map office: roslaunch six office.launc
+   Map office: _roslaunch six office.launch_
 
 b. Tự động khám phá.
 
-rosrun six test_1.py
-## 📄 Giấy phép
-
-Thông tin về giấy phép sử dụng sẽ được cập nhật sau.
-
-## 🤝 Đóng góp
-
+_rosrun six test_1.py_
 
 ---
 
